@@ -1,0 +1,7 @@
+Componentes:
+1. Todos los componentes son funciones
+2. Todos los componenetes inician con mayúscula
+
+JSX = Javascript + XML (Xtensible marcable lenguaje)
+
+3. Siempre se retorna un solo elemento
