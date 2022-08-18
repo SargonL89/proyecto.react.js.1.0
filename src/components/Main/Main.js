@@ -5,8 +5,11 @@ const Main = () => {
     <div>
         <section>
             <h1>
-                Bienvenidos!
+                Don Raffae e-comerce 
             </h1>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium numquam voluptatibus vero optio cum, repellendus natus. Voluptate odit suscipit consequuntur nulla vero veritatis. Laboriosam autem vero vel at obcaecati porro!
+            </p>
         </section>
     </div>
   )
